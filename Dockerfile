@@ -1,6 +1,6 @@
 FROM ubuntu:14.04
 
-MAINTAINER carlad "https://github.com/carlad"
+MAINTAINER vaughn v@vonalytics.com
 
 # Install packages for building ruby
 RUN apt-get update
